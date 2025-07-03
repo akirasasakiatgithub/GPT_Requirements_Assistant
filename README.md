@@ -15,7 +15,7 @@ This process is repeated until all ambiguities are resolved, resulting in a newl
 https://www.youtube.com/watch?v=VijwWptPW3Y
 
 [![使い方を見る](https://img.youtube.com/vi/VijwWptPW3Y/0.jpg)](https://www.youtube.com/watch?v=VijwWptPW3Y)
-
+<br>
 ## 特徴（主な機能）
 
 - 曖昧と判定された理由を表示
@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=VijwWptPW3Y
 - Evaluates ambiguity and appropriateness based on context
 - Reflects heading information in the final output
 - Skip function for bypassing specific steps
+<br>
+<br>
 
 ## exeファイルをダウンロードして使用する場合の手順
 
@@ -65,8 +67,9 @@ https://www.youtube.com/watch?v=VijwWptPW3Y
 
 `.env` が見つからない、またはAPIキーが空だとエラーになります。
 `.env` は `main.exe` と同じフォルダに置く必要があります。  
+<br>
 
-
+## Instructions for downloading and using the exe file
 ### 1. Create an OpenAI account and obtain an API key
 
 - Visit the official OpenAI website:  
