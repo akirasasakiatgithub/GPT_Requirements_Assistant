@@ -2,6 +2,9 @@ import os
 import openai
 import ast
 from tkinter import messagebox
+from dotenv import load_dotenv
+
+load_dotenv() # envファイルをシステム環境変数のように扱えるようにする
 
 api_key = os.getenv("OPENAI_API_KEY")
 

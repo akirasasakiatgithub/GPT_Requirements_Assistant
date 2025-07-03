@@ -4,7 +4,7 @@ import markdown2
 import pdfkit
 
 # wkhtmltopdfのパスを指定
-config = pdfkit.configuration(wkhtmltopdf=r"C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe")
+# config = pdfkit.configuration(wkhtmltopdf=r"C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe")
 
 while True:
     input_result = inp()
