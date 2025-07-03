@@ -1,3 +1,0 @@
-# 以下の your-api-key-here の部分を取得したAPIキーに書き換えた後、このファイルを .env にリネームして使用してください。
-
-OPENAI_API_KEY=your-api-key-here
