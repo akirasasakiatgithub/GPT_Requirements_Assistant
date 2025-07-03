@@ -10,8 +10,10 @@ Clarify is an application that uses AI to support requirements definition.
 The AI analyzes the input requirements and identifies any ambiguities, then asks the user clarifying questions. Based on the user's responses, it rewrites the ambiguous parts into clearer statements.
 This process is repeated until all ambiguities are resolved, resulting in a newly generated, unambiguous requirements definition.
 
-## デモ動画  Demo video
+## デモ動画 &emsp;&emsp; Demo video
+
 https://www.youtube.com/watch?v=VijwWptPW3Y
+
 [![使い方を見る](https://img.youtube.com/vi/VijwWptPW3Y/0.jpg)](https://www.youtube.com/watch?v=VijwWptPW3Y)
 
 ## 特徴（主な機能）
